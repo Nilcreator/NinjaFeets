@@ -1,0 +1,22 @@
+{
+  "s0": {
+    "min_duty": 4.9,
+    "center_duty": 7.3,
+    "max_duty": 9.9
+  },
+  "s1": {
+    "min_duty": 5.0,
+    "center_duty": 7.5,
+    "max_duty": 10.0
+  },
+  "s2": {
+    "min_duty": 3.7,
+    "center_duty": 6.8,
+    "max_duty": 11.8
+  },
+  "s3": {
+    "min_duty": 2.0,
+    "center_duty": 7.1,
+    "max_duty": 10.1
+  }
+}
